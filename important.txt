@@ -1,0 +1,7 @@
+//first
+//npm install web3
+// second 
+// want to fetch the gananache acc ether 
+make fun and use web3.eth.getBalance(use gananache acc) 
+//for run file
+//node writeSmart.js
